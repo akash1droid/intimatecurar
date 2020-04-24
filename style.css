@@ -1,0 +1,170 @@
+#title {
+	text-align: center;
+	font-family: "parkavenue", cursive;
+	color: red;
+	font-size: 20px;
+}
+body {
+	background-color: black;
+	margin: 0;
+}
+.content {
+	background-color: red;
+}
+#header-nav {
+	display: block;
+	float: middle;
+}
+#header-nav li {
+	display: inline;
+	padding-left: 20px;
+	margin-top: 0;
+}
+.content {
+	max-width: 1000px
+	margin: 0 auto;
+}
+.content a {
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+.middle {
+	border-radius: 2px;
+}
+.middle img{
+    height: 240px;
+    width: 160px;
+    padding: 4px;
+    border: solid 2px red;
+    border-radius: 12px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+.middle h2 {
+	color: red;
+	font-family: "parkavenue", cursive;
+	font-size: 40px;
+	padding-left: 15px;
+	padding-top: 18px;
+}
+.middle p {
+	color: red;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	font-size: 20px;
+}
+.more h2 {
+	color: red;
+	font-family: "parkavenue", cursive;
+	text-align: center;
+	font-size: 40px;
+}
+.more img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    width: 70px;
+    border: solid 2px red;
+    border-radius: 300px;
+    padding: 4px;
+}
+.more button{
+	background-color: red;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px white;
+    border-radius: 300px;
+}
+.more a {
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+.more p {
+	color: white;
+	font-family: "parkavenue", cursive;
+	text-align: center;
+	font-size: 25px;
+}
+.cont h2 {
+	color: red;
+	font-family: "parkavenue", cursive;
+	text-align: center;
+	font-size: 40px;
+}
+.cont iframe {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid red;
+    border-radius: 20px;
+}
+.shayari p {
+	color: white;
+	text-align: center;
+}
+.shayari h2 {
+	color: red;
+	font-family: "parkavenue", cursive;
+	text-align: center;
+	font-size: 40px;
+}
+.shayari iframe {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid red;
+    border-radius: 20px;
+}
+.footer {
+	background-color: dimGray;
+}
+.footer p {
+	color: white;
+	text-align: center;
+}
+.footer img {
+	display: inline;
+	margin-left: 30px;
+	margin-right: auto;
+	height: 30px;
+	width: 30px;
+	padding: 10px;
+	border-radius: 20px;
+}
+.footer #paste {
+	font-size: 10px;
+}
+.footer #copy {
+	font-size: 15px;
+	padding: 0 0 0 0;
+}
+.about img {
+	
+	height: 150px;
+	width: 95px;
+	border: solid 2px red;
+	border-radius: 0 25px 0 25px;
+	padding: 4px;
+	margin-left: 30px;
+}
+.about h2 {
+	color: red;
+	font-family: "parkavenue", cursive;
+	font-size: 40px;
+	text-align: center;
+}
+.about p {
+	display: block;
+	color: white;
+	padding: 10px;
+}
